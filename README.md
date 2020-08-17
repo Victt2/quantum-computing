@@ -1,2 +1,2 @@
 # Quantum computing
-Learning quantum algorithms in Qiskit
+Learning quantum algorithms in Qiskit.
